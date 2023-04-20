@@ -102,7 +102,9 @@ API запросы осуществляются через HTTPS протоко�
       "number_of_tracks": 5,
       "webcams": true,
       "image_url": "https:\/\/enot.dev\/images\/image.jpg",
-      "url": "http:\/\/www.shukolovo.ru\/"
+      "url": "http:\/\/www.shukolovo.ru\/",
+      "lat": 56.2307,
+      "lon": 37.4938
     }
   ]
 }
