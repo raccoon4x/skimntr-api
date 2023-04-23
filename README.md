@@ -108,14 +108,13 @@ API запросы осуществляются через HTTPS протоко�
       "working_hours": [
         {
           "day_of_week":1,
-          "open_time":"10:00:00",
-          "close_time":"24:00:00"
-        }, ...
+          "open_time":"10:00",
+          "close_time":"24:00"
+        }
       ],
       "live_streams": [
         {
           "webcam_id": 1,
-          "resort_id": 1,
           "type": "code",
           "data": "..."
         }
