@@ -135,8 +135,8 @@ API запросы осуществляются через HTTPS протоко�
         }
       ],
       "prices": {
-        "skipass_weekday": 60
-        "skipass_weekend": 90
+        "skipass_weekday": 60,
+        "skipass_weekend": 90,
         "instructor": 1500
       }
     }
